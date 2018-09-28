@@ -1,0 +1,6 @@
+F:\Documents\Programs\Lanugages\C#\TerminalChat\TerminalChat\bin\Debug\TerminalChat.exe
+F:\Documents\Programs\Lanugages\C#\TerminalChat\TerminalChat\bin\Debug\TerminalChat.pdb
+F:\Documents\Programs\Lanugages\C#\TerminalChat\TerminalChat\obj\Debug\TerminalChat.csprojResolveAssemblyReference.cache
+F:\Documents\Programs\Lanugages\C#\TerminalChat\TerminalChat\obj\Debug\TerminalChat.csproj.CoreCompileInputs.cache
+F:\Documents\Programs\Lanugages\C#\TerminalChat\TerminalChat\obj\Debug\TerminalChat.exe
+F:\Documents\Programs\Lanugages\C#\TerminalChat\TerminalChat\obj\Debug\TerminalChat.pdb
